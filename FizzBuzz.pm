@@ -1,0 +1,3 @@
+package FizzBuzz;
+
+1;
